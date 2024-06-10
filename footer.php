@@ -1,6 +1,6 @@
  <!-- Footer Block -->
   <footer id="site-footer">
-    <div class="bg-primary bg-opacity-25 py-5 mt-5">
+    <div class="footer1">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-xl-3 col-sm-12">
@@ -26,13 +26,13 @@
         <div class="row">
           <div class="col-md-6 col-sm-12">
             <ul class="list-inline mb-0">
-              <li class="list-inline-item"><a class="btn btn-outline-primary" href="https://wa.me/085693447177"><i class="bi bi-whatsapp"></i></a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-primary" href="#"><i class="bi bi-instagram"></i></a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-primary" href="#"><i class="bi bi-tiktok"></i></a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-primary" href="#"><i class="bi bi-bag-check-fill"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-success" href="https://wa.me/085693447177"><i class="bi bi-whatsapp"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-danger" href="https://instagram.com/peansport"><i class="bi bi-instagram"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-primary" href="https://tiktok.com/@peansport"><i class="bi bi-tiktok"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-warning" href="https://shopee.co.id/peansport"><i class="bi bi-bag-check-fill"></i></a></li>
             </ul>
           </div>
-          <div class="col-md-6 col-sm-12"><span class="text-secondary pt-1 float-md-end float-sm-end">Copyright &copy; PEANSPORT 2023</span></div>
+          <div class="col-md-6 col-sm-12"><span class="text-light pt-1 float-md-end float-sm-end">Copyright &copy; PEANSPORT 2023</span></div>
         </div>
       </div>
     </div>
