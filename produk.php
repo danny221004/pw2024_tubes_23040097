@@ -30,7 +30,7 @@
     </div>
 
     <div class="container mt-5 mb-5" id="productContainer">
-        <div class="row g-4 p-4 border border-secondary">
+        <div class="row g-4 p-4">
             <!-- Hasil Pencarian akan ditampilkan di sini -->
             <?php include "proses_pencarian.php"; ?>
         </div>
