@@ -15,5 +15,12 @@
             <a href="tambah-kategori.php">Tambah Kategori</a>
         </div>
     </div>
+    <div class="dropdown">
+        <a href="#">Admin</a>
+        <div class="dropdown-content">
+            <a href="data-admin.php">Data Admin</a>
+            <a href="daftar.php">Tambah Admin</a>
+        </div>
+    </div>
     <a href="#">Logout</a>
 </div>

@@ -20,20 +20,18 @@ if ($_SESSION['username'] != true) {
     <?php include "sidebar.php"; ?>
 
     <div class="content">
-        <div class="container">
+        <div class="form">
             <form action="cek_daftar.php" method="POST">
                 <h2>Register</h2>
-                <div class="input-group">
+                <div class="from-group">
                     <label for="username">Username</label>
                     <input type="text" id="username" name="username" required>
                 </div>
-                <div class="input-group">
+                <div class="fr0om-group">
                     <label for="password">Password</label>
                     <input type="password" id="password" name="password" required>
                 </div>
                 <button type="submit">Register</button>
-                <a href="../admin/login.php">Login</a>
-
             </form>
         </div>
     </div>
